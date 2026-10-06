@@ -61,9 +61,7 @@ The models are evaluated using:
 
 ## Project Structure
 
-```text
-customer-churn-prediction/
-│
 ├── Customer_Churn_Prediction.ipynb
+├── Telco_Churn.xlsx
 ├── requirements.txt
 └── README.md
